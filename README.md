@@ -42,7 +42,7 @@
 ---
 
 ## 📊 範例輸出
-![結果](result.png)
+![結果](Result.png)
 ```python
 產品名稱: "Apple 蘋果 iPhone 16 Pro (128G)"
 價格: "$24348"
