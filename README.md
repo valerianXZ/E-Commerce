@@ -42,7 +42,10 @@
 ---
 
 ## 📊 範例輸出
+![結果](result.png)
 ```python
-產品名稱: "智能手機 XYZ"
-價格: "$299"
-鏈接: "https://www.pchome.com.tw/product/XYZ"
+產品名稱: "Apple 蘋果 iPhone 16 Pro (128G)"
+價格: "$24348"
+鏈接: "https://24h.pchome.com.tw/prod/DYAJFR-1900HSTSY"
+
+
