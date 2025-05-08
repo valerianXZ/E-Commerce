@@ -16,8 +16,22 @@ Currently, the script includes a function to fetch data specifically from the Co
 * **Headless Browsing:** Operates in the background without opening a visible browser window.
 * **Data Structuring:** Organizes the scraped data into a Pandas DataFrame for easy analysis and manipulation.
 
+## 📊 Sample Output
+
+### Costco Search Results:
+
+![Costco Search Result](costco_search_result.png)
+
+### PCHOME Search Results:
+
+![PCHOME Search Result](pchome_search_result.png)
+* **PCHOME price might seems very low price due to installment
 ## Prerequisites
 
+### Final Result:
+![Final Search Result](final_result.png)
+
+## Prerequisites
 Before running the script, ensure you have the following installed:
 
 * **Python 3.x**
@@ -27,3 +41,7 @@ You will also need to install the necessary Python libraries:
 
 ```bash
 pip install selenium pandas webdriver-manager
+
+
+
+*(Example of Costco search results)*
