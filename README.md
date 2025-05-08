@@ -44,4 +44,4 @@ pip install selenium pandas webdriver-manager
 
 
 
-*(Example of Costco search results)*
+
