@@ -25,7 +25,7 @@ Currently, the script includes a function to fetch data specifically from the Co
 ### PCHOME Search Results:
 
 ![PCHOME Search Result](pchome_search_result.png)
-* **PCHOME price might seems very low price due to installment
+* PCHOME price might seems very low price due to installment
 ## Prerequisites
 
 ### Final Result:
